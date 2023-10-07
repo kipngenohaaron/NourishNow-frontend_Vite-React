@@ -47,7 +47,8 @@ function ContactUs() {
         </button>
       </form>
       <p className="mt-6">Reach out with any comments or queries you might have</p>
-      <p>Contact email: info@nourishnow.org</p>
+      <p>Contact Us: +254 724 828 197 / 0724 279 400</p>
+      <p>Email Address: kipngenohaaron@gmail.com</p>
     </div>
   
 
